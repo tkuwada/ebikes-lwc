@@ -90,7 +90,7 @@ sfdx force:org:open
 
 4. Select **Install for All Users**
 
-5. In **Setup**, under **Themes and Branding**, activate the **Lightning Lite** theme.
+5. In **Setup**, under **Themes and Branding**, activate the **Lightning Lite** theme. right now?
 
 6. Import Account data:
 
